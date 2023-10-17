@@ -1,5 +1,7 @@
 ### So apparently this is a thing
-## I have too many private repos, and not enough public
+
+I have too many private repos, and not enough public
+Just trying to get by. Rust is pretty cool.
 
 <div>
   <p>
